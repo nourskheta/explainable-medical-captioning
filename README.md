@@ -9,11 +9,6 @@ Medical image captioning is the task of generating descriptive, clinically relev
 ## Status
 Code will be added once reviewed and finalized.
 
-## Structure
-- `model/`: Code for model architecture and training
-- `data/`: Dataset info or links
-- `report/`: Final technical report (to be added)
-- `outputs/`: Sample results (attention maps, captions, etc.)
 
 ## License
 This project is for academic purposes only.
